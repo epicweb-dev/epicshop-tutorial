@@ -32,14 +32,17 @@
 
 ## Prerequisites
 
-- None for this tutorial, but each workshop will have its own prerequisites you'll need to meet.
+Each workshop will have its own prerequisites you'll need to meet.
+
+- Understanding of how to use the command line to run basic commands.
 
 ## Pre-workshop Resources
 
 Here are some resources you can read before taking the workshop to get you up to
 speed on some of the tools and concepts we'll be covering:
 
-- None for this tutorial, but each workshop will have its own pre-workshop resources you'll want to read/watch/listen to.
+- None for this tutorial, but each workshop will have its own pre-workshop
+  resources you'll want to read/watch/listen to.
 
 ## System Requirements
 
@@ -85,10 +88,17 @@ details as you can offer.
 
 ## The Workshop App
 
-Learn all about the workshop app on the
-[Epic Web Getting Started Guide](https://www.epicweb.dev/get-started).
+This workshop repository is intended to guide you through using the Epic
+Workshop App. Once you have this repository cloned and setup as described above,
+start the app in the terminal by running this command in the directory where you
+cloned the repository:
 
-[![Kent with the workshop app in the background](https://github-production-user-asset-6210df.s3.amazonaws.com/1500684/280407082-0e012138-e01d-45d5-abf2-86ffe5d03c69.png)](https://www.epicweb.dev/get-started)
+```sh
+npm run start
+```
+
+The URL for the app will be displayed and you can open it in the browser. From
+there, follow the instructions in the app to complete the tutorial.
 
 <!-- prettier-ignore-start -->
 [npm]: https://www.npmjs.com/
