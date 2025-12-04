@@ -1,18 +1,26 @@
 {
-	"files": [],
-	"exclude": ["node_modules"],
-	"references": [
-		{
-			"path": "exercises/01.exercise-navigation/01.problem.first-step"
-		},
-		{
-			"path": "exercises/01.exercise-navigation/01.solution.first-step"
-		},
-		{
-			"path": "exercises/01.exercise-navigation/02.problem.multi-step"
-		},
-		{
-			"path": "exercises/01.exercise-navigation/02.solution.multi-step"
-		}
-	]
+  "files": [],
+  "exclude": [
+    "node_modules"
+  ],
+  "references": [
+    {
+      "path": "exercises/01.exercise-navigation/01.problem.first-step"
+    },
+    {
+      "path": "exercises/01.exercise-navigation/01.solution.first-step"
+    },
+    {
+      "path": "exercises/01.exercise-navigation/02.problem.multi-step"
+    },
+    {
+      "path": "exercises/01.exercise-navigation/02.solution.multi-step"
+    },
+    {
+      "path": "exercises/02.app-varieties/01.problem.no-preview"
+    },
+    {
+      "path": "exercises/02.app-varieties/01.solution.no-preview"
+    }
+  ]
 }
