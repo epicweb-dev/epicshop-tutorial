@@ -36,7 +36,8 @@ const apps = [...exampleApps, ...exerciseApps]
 
 const appsWithPkgJson = [...examples, ...apps].filter((app) => {
 	const pkgjsonPath = path.join(app, 'package.json')
-	return exists(pkgjsonPath)
+	const tsconfigPath = path.join(app, 'tsconfig.json')
+	return exists(pkgjsonPath) && exists(tsconfigPath)
 })
 
 // update the package.json file name property
