@@ -14,7 +14,11 @@
     "product": {
       "host": "www.epicweb.dev",
       "displayName": "EpicWeb.dev",
-      "displayNameShort": "Epic Web"
+      "displayNameShort": "Epic Web",
+      "discordChannelId": "1161045224907341972",
+      "discordTags": [
+        "1161046174439063593"
+      ]
     }
   },
   "type": "module",

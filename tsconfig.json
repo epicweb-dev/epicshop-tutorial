@@ -1,14 +1,18 @@
 {
-  "files": [],
-  "exclude": [
-    "node_modules"
-  ],
-  "references": [
-    {
-      "path": "exercises/01.example/01.problem.hello"
-    },
-    {
-      "path": "exercises/01.example/01.solution.goodbye"
-    }
-  ]
+	"files": [],
+	"exclude": ["node_modules"],
+	"references": [
+		{
+			"path": "exercises/01.exercise-navigation/01.problem.first-step"
+		},
+		{
+			"path": "exercises/01.exercise-navigation/01.solution.first-step"
+		},
+		{
+			"path": "exercises/01.exercise-navigation/02.problem.multi-step"
+		},
+		{
+			"path": "exercises/01.exercise-navigation/02.solution.multi-step"
+		}
+	]
 }
