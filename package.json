@@ -58,6 +58,6 @@
   },
   "prettier": "@epic-web/config/prettier",
   "dependencies": {
-    "@epic-web/workshop-utils": "^6.74.1"
+    "@epic-web/workshop-utils": "^6.74.2"
   }
 }
