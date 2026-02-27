@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"><a href="https://www.epicweb.dev/workshops">Epic Workshop App Tutorial 👨‍🏫</a></h1>
+  <h1 align="center"><a href="https://www.epicweb.dev/tutorials">Epic Workshop App Tutorial 👨‍🏫</a></h1>
   <strong>
     Maximize your learning experience by learning how to use the Epic Workshop App
   </strong>

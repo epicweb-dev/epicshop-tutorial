@@ -13,6 +13,7 @@
     },
     "product": {
       "host": "www.epicweb.dev",
+      "slug": "learn-how-to-use-the-epic-workshop-app~kfmou",
       "displayName": "EpicWeb.dev",
       "displayNameShort": "Epic Web",
       "discordChannelId": "1161045224907341972",
